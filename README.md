@@ -17,3 +17,5 @@ If we were to improve/expedite this process, we could see a higher conversion ra
 
 
 There were a few aspects of the data sets that I wish were different or thought might be improved. I included my suggestions in the models and notes on the google sheet.
+It seems like I am unable to upload the dbt project I created directly from Snowflake, so I will just copy the models folder and a couple project files to show the important bits.
+Feel free to check out the project itself on Snowflake (if that's possible, not sure since I'm unfamiliar with this specific tech stack).
