@@ -1,0 +1,9 @@
+owner_project:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      role: DE_CASE_ROOTXV_ROLE
+      warehouse: CASE_WH
+      database: DEMO_DB
+      schema: DE_CASE_ROOTXV_SCHEMA

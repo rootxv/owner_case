@@ -1,0 +1,12 @@
+sources:
+  - name: gtm_case
+    database: demo_db
+    tables:
+      - name: expenses_advertising
+        identifier: expenses_advertising
+      - name: expenses_salary_and_commissions
+        identifier: expenses_salary_and_commissions
+      - name: leads
+        identifier: leads
+      - name: opportunities
+        identifier: opportunities
